@@ -1,4 +1,5 @@
-A#
+F
+>>>>>>> fix
 #
 #
 #lets play with git status for a while
