@@ -2,6 +2,7 @@
 #
 #
 #lets play with git status for a while
+#this is the fix file
 git status
 #
 #modify something and then do:
