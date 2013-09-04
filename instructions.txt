@@ -2,7 +2,6 @@
 #
 #
 #lets play with git status for a while
-#this is the master
 git status
 #
 #modify something and then do:
